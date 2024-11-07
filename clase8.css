@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(24, 27, 73);
+  }
+  h1{
+    background-color: rgb(101, 165, 42);
+    color: aliceblue;
+    font-size: 50px;
+    text-shadow: 2 2 4 rgb(167, 17, 47);
+  }
+  
+  img{
+    border-radius: 2px;
+    border-color: azure;
+    padding: 3px;
+  }
+  
+  p{
+    color: rgb(16, 159, 216);
+    font-size: 20px;
+  }
+  
